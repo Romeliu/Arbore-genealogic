@@ -23,6 +23,7 @@ namespace Arbore_genealogic
         int[] numar_copii=new int[101];
         Dictionary<string, int> nume = new Dictionary<string, int>();
         string[] name = new string[102];
+        //comment
         public Form1()
         {
             InitializeComponent();
